@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Digibook\digiBookDataLayer\bin\Debug\net8.0\digiBookDataLayer.deps.json
+C:\Users\Admin\source\repos\Digibook\digiBookDataLayer\bin\Debug\net8.0\digiBookDataLayer.dll
+C:\Users\Admin\source\repos\Digibook\digiBookDataLayer\bin\Debug\net8.0\digiBookDataLayer.pdb
+C:\Users\Admin\source\repos\Digibook\digiBookDataLayer\bin\Debug\net8.0\digiBookModel.dll
+C:\Users\Admin\source\repos\Digibook\digiBookDataLayer\bin\Debug\net8.0\digiBookModel.pdb
+C:\Users\Admin\source\repos\Digibook\digiBookDataLayer\obj\Debug\net8.0\digiBookDataLayer.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Digibook\digiBookDataLayer\obj\Debug\net8.0\digiBookDataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Digibook\digiBookDataLayer\obj\Debug\net8.0\digiBookDataLayer.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Digibook\digiBookDataLayer\obj\Debug\net8.0\digiBookDataLayer.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Digibook\digiBookDataLayer\obj\Debug\net8.0\digiBookDataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Digibook\digiBookDataLayer\obj\Debug\net8.0\digiBookDataLayer.sourcelink.json
+C:\Users\Admin\source\repos\Digibook\digiBookDataLayer\obj\Debug\net8.0\digiBook.774B4127.Up2Date
+C:\Users\Admin\source\repos\Digibook\digiBookDataLayer\obj\Debug\net8.0\digiBookDataLayer.dll
+C:\Users\Admin\source\repos\Digibook\digiBookDataLayer\obj\Debug\net8.0\refint\digiBookDataLayer.dll
+C:\Users\Admin\source\repos\Digibook\digiBookDataLayer\obj\Debug\net8.0\digiBookDataLayer.pdb
+C:\Users\Admin\source\repos\Digibook\digiBookDataLayer\obj\Debug\net8.0\ref\digiBookDataLayer.dll
