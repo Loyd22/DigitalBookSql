@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\bookdemo2.props" />
+</Project>
