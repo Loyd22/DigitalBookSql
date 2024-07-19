@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Digibook\digiBookModel\bin\Debug\net8.0\digiBookModel.deps.json
+C:\Users\Admin\source\repos\Digibook\digiBookModel\bin\Debug\net8.0\digiBookModel.dll
+C:\Users\Admin\source\repos\Digibook\digiBookModel\bin\Debug\net8.0\digiBookModel.pdb
+C:\Users\Admin\source\repos\Digibook\digiBookModel\obj\Debug\net8.0\digiBookModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Digibook\digiBookModel\obj\Debug\net8.0\digiBookModel.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Digibook\digiBookModel\obj\Debug\net8.0\digiBookModel.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Digibook\digiBookModel\obj\Debug\net8.0\digiBookModel.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Digibook\digiBookModel\obj\Debug\net8.0\digiBookModel.sourcelink.json
+C:\Users\Admin\source\repos\Digibook\digiBookModel\obj\Debug\net8.0\digiBookModel.dll
+C:\Users\Admin\source\repos\Digibook\digiBookModel\obj\Debug\net8.0\refint\digiBookModel.dll
+C:\Users\Admin\source\repos\Digibook\digiBookModel\obj\Debug\net8.0\digiBookModel.pdb
+C:\Users\Admin\source\repos\Digibook\digiBookModel\obj\Debug\net8.0\ref\digiBookModel.dll
+C:\Users\Admin\source\repos\Digibook\digiBookModel\obj\Debug\net8.0\digiBookModel.csproj.AssemblyReference.cache
